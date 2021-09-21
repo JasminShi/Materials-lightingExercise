@@ -1,0 +1,261 @@
+Unity Editor version:    2020.3.17f1 (a4537701e4ab)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.13.6 (Build 17G5019)
+Darwin version:          17.7.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jasmin/Jasmin's Test Project/Materials Exercise
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63491
+Successfully changed project path to: /Users/jasmin/Jasmin's Test Project/Materials Exercise
+/Users/jasmin/Jasmin's Test Project/Materials Exercise
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 91.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jasmin/Jasmin's Test Project/Materials Exercise/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-21 18:07:08.622 Unity[45835:9050653] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 650 (low power)
+2021-09-21 18:07:08.622 Unity[45835:9050653] Metal devices available: 1
+2021-09-21 18:07:08.622 Unity[45835:9050653] 0: Intel(R) Iris(TM) Plus Graphics 650 (low power)
+2021-09-21 18:07:08.624 Unity[45835:9050653] Using device Intel(R) Iris(TM) Plus Graphics 650 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 650
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56835
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002044 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 95.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.023 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5024ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (829ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (338ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (340ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (96ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (167ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 88.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.130 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2131ms)
+		BeginReloadAssembly (313ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (1690ms)
+			LoadAssemblies (138ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (589ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (120ms)
+			SetupLoadedEditorAssemblies (639ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (89ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (421ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.006997 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.008586 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.17f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 261.5 MB.
+System memory in use after: 261.0 MB.
+
+Unloading 133 unused Assets to reduce memory usage. Loaded Objects now: 3585.
+Total: 12.720909 ms (FindLiveObjects: 2.684819 ms CreateObjectMapping: 0.759158 ms MarkObjects: 8.151073 ms  DeleteObjects: 1.123918 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_shade.prefab
+  artifactKey: Guid(89925d53b42432741b6c9de75492ab0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_shade.prefab using Guid(89925d53b42432741b6c9de75492ab0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03e0b95ded3ac4a7fbc3bf71434aa23') in 0.505897 seconds 
+  Import took 0.517987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001181 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_round.prefab
+  artifactKey: Guid(4e27f85933c44cc42893d4a4312fdf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_round.prefab using Guid(4e27f85933c44cc42893d4a4312fdf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0819112dc6345acf7e5f9eb11a16b758') in 0.051166 seconds 
+  Import took 0.061914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_ball.prefab
+  artifactKey: Guid(a076cfe78dd2d5e419f1c00ba249fd97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_ball.prefab using Guid(a076cfe78dd2d5e419f1c00ba249fd97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985a2a252954165d60841e181f38caec') in 0.046617 seconds 
+  Import took 0.061443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_cone_B.prefab
+  artifactKey: Guid(de121d55bf30c984db8e9187c15e5428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_cone_B.prefab using Guid(de121d55bf30c984db8e9187c15e5428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd0448fb992b70e2f3da9288a50c499') in 0.048711 seconds 
+  Import took 0.064963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps
+  artifactKey: Guid(c44ccab6852214dc6a530a437b66532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps using Guid(c44ccab6852214dc6a530a437b66532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83694c9ac93a16e739b8dcbf5fb44d9d') in 0.000910 seconds 
+  Import took 0.009335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_work.prefab
+  artifactKey: Guid(5ca21fe83ef4ee3498bf44669e04fddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_work.prefab using Guid(5ca21fe83ef4ee3498bf44669e04fddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ac5a52c0db0559e175cd28dc63a421') in 0.056243 seconds 
+  Import took 0.070656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab
+  artifactKey: Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab using Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0d57be7dc2bb0bfc26564933078d5c') in 0.054078 seconds 
+  Import took 0.069605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004870 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab
+  artifactKey: Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab using Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0d57be7dc2bb0bfc26564933078d5c') in 0.055327 seconds 
+  Import took 0.069158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1456.542839 seconds.
+  path: Assets/AtmosphericHouse/Materials
+  artifactKey: Guid(d6535d043bd0e418488449ea43cc802d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials using Guid(d6535d043bd0e418488449ea43cc802d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee784fc0247641c14a3389f74dea5a0f') in 0.081445 seconds 
+  Import took 0.616128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.850730 seconds.
+  path: Assets/AtmosphericHouse/Materials/New Material.mat
+  artifactKey: Guid(8959e4538aff34a73ad87676dd68205b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/New Material.mat using Guid(8959e4538aff34a73ad87676dd68205b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ae9786d4caab68f0801b014257a9b7') in 1.272062 seconds 
+  Import took 1.502189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1509.738763 seconds.
+  path: Assets/AtmosphericHouse/Materials/New Material 1.mat
+  artifactKey: Guid(d1c65f7db05f34547bd10896b9dddda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/New Material 1.mat using Guid(d1c65f7db05f34547bd10896b9dddda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12f0f59b808243b5b4d66d18af3527c') in 0.580773 seconds 
+  Import took 0.912912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 440.063152 seconds.
+  path: Assets/AtmosphericHouse/Materials/Might.mat
+  artifactKey: Guid(12a5d0fea77594442913250ee26a2bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Might.mat using Guid(12a5d0fea77594442913250ee26a2bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f763c6eca7f5e63575d992a98c3ff44') in 0.390430 seconds 
+  Import took 0.628749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/AtmosphericHouse/Materials/New Material 1.mat
+  artifactKey: Guid(d1c65f7db05f34547bd10896b9dddda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/New Material 1.mat using Guid(d1c65f7db05f34547bd10896b9dddda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ea8bcf60a51595ef0f707e6aca11c6') in 0.089211 seconds 
+  Import took 0.098332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3427.951091 seconds.
+  path: Assets/AtmosphericHouse/Materials/Misc_prop_set_clean.mat
+  artifactKey: Guid(5dd43fb3fc6b5e547ae39f8ce5e5f5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Misc_prop_set_clean.mat using Guid(5dd43fb3fc6b5e547ae39f8ce5e5f5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370f457a98456d39ef7e32449b390e56') in 0.471017 seconds 
+  Import took 0.727941 seconds .
+
